@@ -1,0 +1,20 @@
+{
+  "name": "WEB_AUT_PETERIS_SAVICKIS_MD2",
+  "version": "1.0.0",
+  "description": "MD2 kursā \"Testing and its automation tools\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterisSavickis/WEB_AUT_PETERIS_SAVICKIS_MD2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterisSavickis/WEB_AUT_PETERIS_SAVICKIS_MD2/issues"
+  },
+  "homepage": "https://github.com/PeterisSavickis/WEB_AUT_PETERIS_SAVICKIS_MD2#readme"
+}
